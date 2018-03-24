@@ -1,6 +1,6 @@
 # Awesome Power BI!
 
-[![Join the chat at https://gitter.im/rulikkk/awesome-power-bi](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rulikkk/awesome-power-bi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/awesome-power-bi](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/awesome-power-bi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk).
 
