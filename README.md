@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/awesome-power-bi](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/awesome-power-bi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-> A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk).
+> A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk) or check out [visuals we've developed](#visuals-developed-by-akvelon).
 
 Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet),  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks).
 
@@ -20,6 +20,7 @@ Thanks to all [contributors](https://github.com/rulikkk/awesome-power-bi/graphs/
     - [Utils](#utils)
     - [Other Development Resources](#other-development-resources)
 * [Visuals](#visuals)
+    - **[Visuals Developed by Akvelon](#visuals-developed-by-akvelon)**
     - [Power BI in AppSource](#power-bi-in-appsource)
 * [Courses](#courses)
 * [Communities](#communities)
@@ -70,6 +71,13 @@ Power BI utils are set of tools that allow developer of Power BI visual to easil
 * [Power BI Javascript](https://github.com/Microsoft/PowerBI-JavaScript) — JavaScript library for embedding Power BI into your apps.
 
 ## Visuals
+
+### Visuals Developed by Akvelon
+
+* [Hierarchy Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381333) — This Power BI add on is perfect for ranking different departments, jobs, and employees who make up an organization. It can also be used to show family history and visualize genealogy information. If your data can be visualized in a tree structure, the Hierarchy Chart can display it in an easy to read format.
+* [Custom Calendar by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381179) — Akvelon’s Custom Calendar for Power BI is the best way to view and display daily data from any source.
+* [KPI Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381432) — KPI Chart by Akvelon is a single visualization for illustrating and efficiently analyzing the correlation between two measures and it combines a line chart and a column chart with the same X axis. Column and line charts show representation of the distribution of numerical data. Additionally, KPI Chart by Akvelon allows to show static and dynamic background KPI regions that can characterize, for example, the level of success before reaching the target.
+* [Bubble Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381340) ([source](https://github.com/akvelon/pbicv-bubblechart)) — Bubble Chart by Akvelon provides efficient way to visualize your data that has one numeric dimension and one or two categories. This chart is simplified version of Scatter chart with tightly packed bubbles - this way you can show more categories in a given space. Additionally, Bubble chart allows to create groups of bubbles by providing additional second category field bucket.
 
 ### Power BI in AppSource 
 
