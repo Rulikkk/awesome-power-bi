@@ -99,5 +99,6 @@ Power BI utils are set of tools that allow developer of Power BI visual to easil
 
 This section contains tutorials about _using Power BI_. If You are looking for development resources and tutorials, please head to [development section](#development).
 
+* [Getting started](https://docs.microsoft.com/en-us/power-bi/) - Microsoft Power BI Guided Learning
 * [Power BI Tips and Tricks](https://powerbi.tips) — A large collection of articles about Power BI, DAX queries, visuals, etc.
 * [Guy in a Cube](https://guyinacube.com) — Tips & tricks, training, and roundups for Power BI and more!
