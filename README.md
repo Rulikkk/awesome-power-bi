@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/awesome-power-bi](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/awesome-power-bi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-> A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk) or check out [visuals we've developed](#visuals-developed-by-akvelon).
+> A collection of awesome [Power BI](#general) frameworks, libraries, tools, resources, and software. This project is envisioned, designed and maintained by [Akvelon](https://akvelon.com) volunteer development team. If You would like Akvelon to develop a Power BI dashboard or custom visual, please, contact me via `rustem.mustafin [at] akvelon.com` or twitter: [@Rulikkk](https://twitter.com/rulikkk) or check out [visuals we've developed](#visuals-developed-by-akvelon).
 
 Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet),  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks).
 
@@ -57,7 +57,7 @@ Power BI utils are set of tools that allow developer of Power BI visual to easil
 * [ChartUtils](https://github.com/Microsoft/powerbi-visuals-utils-chartutils) ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-chartutils)) — helps to create chart axes and drawing labels;
 * [ColorUtils](https://github.com/Microsoft/powerbi-visuals-utils-colorutils) ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-colorutils)) — manages color manipulations;
 * [TooltipUtils](https://github.com/Microsoft/powerbi-visuals-utils-tooltiputils) ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-tooltiputils)) — simplifies usage of the Tooltip API;
-* [TypeUtils](https://github.com/Microsoft/powerbi-visuals-utils-typeutils) ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-typeutils)) — extends the basic types for Power BI custom visuals;
+* [TypeUtils](https://github.com/Microsoft/powerbi-visuals-utils-typeutils) ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-typeutils)) — extends the basic types of Power BI custom visuals;
 * [InteractivityUtils](https://github.com/Microsoft/powerbi-visuals-utils-interactivityutils) ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-interactivityutils)) — helps to implement cross-selection and cross-filtering;
 * [FormattingUtils](https://github.com/Microsoft/powerbi-visuals-utils-formattingutils) ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-formattingutils)) — provides functionality to format values;
 * [SVGUtils](https://github.com/Microsoft/powerbi-visuals-utils-svgutils) ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-svgutils)) — simplifies SVG manipulations;
@@ -74,24 +74,24 @@ Power BI utils are set of tools that allow developer of Power BI visual to easil
 
 ### Visuals Developed by Akvelon
 
-* [Hierarchy Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381333) — This Power BI add on is perfect for ranking different departments, jobs, and employees who make up an organization. It can also be used to show family history and visualize genealogy information. If your data can be visualized in a tree structure, the Hierarchy Chart can display it in an easy to read format.
+* [Hierarchy Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381333) — This Power BI add-on is perfect for ranking different departments, jobs, and employees who make up an organization. It can also be used to show family history and visualize genealogy information. If your data can be visualized in a tree structure, the Hierarchy Chart can display it in an easy to read format.
 * [Custom Calendar by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381179) — Akvelon’s Custom Calendar for Power BI is the best way to view and display daily data from any source.
-* [KPI Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381432) — KPI Chart by Akvelon is a single visualization for illustrating and efficiently analyzing the correlation between two measures and it combines a line chart and a column chart with the same X axis. Column and line charts show representation of the distribution of numerical data. Additionally, KPI Chart by Akvelon allows to show static and dynamic background KPI regions that can characterize, for example, the level of success before reaching the target.
-* [Bubble Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381340) ([source](https://github.com/akvelon/pbicv-bubblechart)) — Bubble Chart by Akvelon provides efficient way to visualize your data that has one numeric dimension and one or two categories. This chart is simplified version of Scatter chart with tightly packed bubbles - this way you can show more categories in a given space. Additionally, Bubble chart allows to create groups of bubbles by providing additional second category field bucket.
+* [KPI Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381432) — KPI Chart by Akvelon is a single visualization for illustrating and efficiently analyzing the correlation between two measures and it combines a line chart and a column chart with the same X-axis. Column and line charts show representation of the distribution of numerical data. Additionally, KPI Chart by Akvelon allows showing static and dynamic background KPI regions that can characterize, for example, the level of success before reaching the target.
+* [Bubble Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381340) ([source](https://github.com/akvelon/pbicv-bubblechart)) — Bubble Chart by Akvelon provides efficient way to visualize your data that has one numeric dimension and one or two categories. This chart is simplified version of Scatter chart with tightly packed bubbles - this way you can show more categories in a given space. Additionally, Bubble chart allows creating groups of bubbles by providing additional second category field bucket.
 
 ### Power BI in AppSource 
 
 * [Power BI Visuals in AppSource](https://appsource.microsoft.com/marketplace/apps?product=power-bi-visuals) — Microsoft's marketplace for Power BI visuals.
-* [Power BI Dasboards in AppSource](https://appsource.microsoft.com/marketplace/apps?product=power-bi) — Collection of dashboards, integrated with specific applications and services.
+* [Power BI Dashboards in AppSource](https://appsource.microsoft.com/marketplace/apps?product=power-bi) — Collection of dashboards, integrated with specific applications and services.
 
 ## Courses
 * [Analyzing and Visualizing Data with Power BI](https://www.edx.org/course/analyzing-visualizing-data-power-bi-microsoft-dat207x-8) — Learn from the Power BI product team at Microsoft with a series of short, lecture-based videos, complete with demos, quizzes, and hands-on labs.
-* [Microsoft Power BI - A Complete Introduction](https://www.udemy.com/powerbi-complete-introduction/) — Learn how to use Microsoft's Power BI Tools, including Power BI Desktop, Power BI Service and PowerBI Developer.
+* [Microsoft Power BI - A Complete Introduction](https://www.udemy.com/powerbi-complete-introduction/) — Learn how to use Microsoft's Power BI Tools, including Power BI Desktop, Power BI Service, and PowerBI Developer.
 * [Power BI Training](https://support.office.com/en-us/article/training-power-bi-b0d71655-a6a0-4874-8069-ed90f7d5544d) — A 5-minute hands-on video-introduction to Power BI.
 
 ## Communities
 
-* [Power BI User Group (PUG)](https://www.pbiusergroup.com) — A user-led, user driven community of 37,000 Power BI users.
+* [Power BI User Group (PUG)](https://www.pbiusergroup.com) — A user-led, user-driven community of 37,000 Power BI users.
 * [Power BI Community](http://community.powerbi.com) — Connect, learn and discuss with business intelligence experts and peers.
 * [RADACAD Blog](http://radacad.com/blog) — Blog about various Power BI features and use-cases.
 
