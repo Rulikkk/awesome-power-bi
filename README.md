@@ -82,7 +82,7 @@ Power BI utils are set of tools that allow developer of Power BI visual to easil
 * [KPI Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381432) — KPI Chart by Akvelon is a single visualization for illustrating and efficiently analyzing the correlation between two measures and it combines a line chart and a column chart with the same X-axis. Column and line charts show representation of the distribution of numerical data. Additionally, KPI Chart by Akvelon allows showing static and dynamic background KPI regions that can characterize, for example, the level of success before reaching the target.
 * [Bubble Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381340) ([source](https://github.com/akvelon/pbicv-bubblechart)) — Bubble Chart by Akvelon provides efficient way to visualize your data that has one numeric dimension and one or two categories. This chart is simplified version of Scatter chart with tightly packed bubbles - this way you can show more categories in a given space. Additionally, Bubble chart allows creating groups of bubbles by providing additional second category field bucket.
 
-## MS Open-Source Visuals
+### MS Open-Source Visuals
 
 This is a list of custom open-source, MIT-licensed visuals and tools by Microsoft:
 
