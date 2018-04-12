@@ -21,6 +21,7 @@ Thanks to all [contributors](https://github.com/rulikkk/awesome-power-bi/graphs/
     - [Other Development Resources](#other-development-resources)
 * [Visuals](#visuals)
     - **[Visuals Developed by Akvelon](#visuals-developed-by-akvelon)**
+    - [MS Open-Source Visuals](#ms-open-source-visuals)
     - [Power BI in AppSource](#power-bi-in-appsource)
 * [Courses](#courses)
 * [Communities](#communities)
@@ -44,6 +45,8 @@ Thanks to all [contributors](https://github.com/rulikkk/awesome-power-bi/graphs/
 * [Power BI Twitter](https://twitter.com/mspowerbi) — Power BI official twitter.
 
 ## Development
+
+This chapter covers topics related to building custom visuals and other ways to develop with Power BI. You can also check visuals [developed by Akvelon](#visuals-developed-by-akvelon) and [by Microsoft](#ms-open-source-visuals), which are open-source and serve as good samples of how to implement a custom visual.
 
 ### Custom Visuals Development
 
@@ -78,6 +81,41 @@ Power BI utils are set of tools that allow developer of Power BI visual to easil
 * [Custom Calendar by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381179) — Akvelon’s Custom Calendar for Power BI is the best way to view and display daily data from any source.
 * [KPI Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381432) — KPI Chart by Akvelon is a single visualization for illustrating and efficiently analyzing the correlation between two measures and it combines a line chart and a column chart with the same X-axis. Column and line charts show representation of the distribution of numerical data. Additionally, KPI Chart by Akvelon allows showing static and dynamic background KPI regions that can characterize, for example, the level of success before reaching the target.
 * [Bubble Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381340) ([source](https://github.com/akvelon/pbicv-bubblechart)) — Bubble Chart by Akvelon provides efficient way to visualize your data that has one numeric dimension and one or two categories. This chart is simplified version of Scatter chart with tightly packed bubbles - this way you can show more categories in a given space. Additionally, Bubble chart allows creating groups of bubbles by providing additional second category field bucket.
+
+## MS Open-Source Visuals
+
+This is a list of custom open-source, MIT-licensed visuals and tools by Microsoft:
+
+* [**Visuals Tools**](https://github.com/Microsoft/PowerBI-visuals-tools) — Tools for building/packaging Power BI visuals. Every Power BI custom visuals developer uses these tools.
+
+* [Aster](https://github.com/Microsoft/PowerBI-visuals-AsterPlot) — An Aster plot is a twist on a standard donut chart, using a second value to drive sweep angle.
+* [Bullet Chart](https://github.com/Microsoft/powerbi-visuals-bulletchart) — A bullet chart that includes four orientations and a few customization options. Use to feature a single measure against a qualitative range.
+* [Cartogram](https://github.com/Microsoft/powerbi-visuals-drilldown-cartogram) — Displays a hierarchical map set as a circle for each location, with size/color from specified values.
+* [Chiclet Slicer](https://github.com/Microsoft/PowerBI-visuals-ChicletSlicer) — Use this slicer to display image and/or text buttons that act as an in-canvas filter. Define additional properties for the layout & selection to customize this slicer to meet your specific needs.
+* [Chord Diagram](https://github.com/Microsoft/powerbi-visuals-chord) — A chord diagram is a graphical method of displaying the inter-relationships between data in a matrix.
+* [Choropleth](https://github.com/Microsoft/powerbi-visuals-drilldown-choropleth) — Displays a hierarchical map set with each location filled in a color from specified values.
+* [Dotplot](https://github.com/Microsoft/powerbi-visuals-dotplot) — A dot plot is used to show a representation of the distribution of frequencies. It is most often used to show counts of an occurrence.
+* [Drilldown Player](https://github.com/Microsoft/powerbi-visuals-drilldown-player) — Animates report components like a slicer on autopilot.
+* [Dual KPI](https://github.com/Microsoft/powerbi-visuals-dualkpi) — A visual for displaying two correlated KPIs within a single visual.
+* [Enhanced Scatter](https://github.com/Microsoft/powerbi-visuals-enhancedscatter) — A few more properties were added to the existing scatter chart visual, including shapes as markers, background image support, and developer crosshairs for positioning elements onto an image background.
+* [Force Graph](https://github.com/Microsoft/PowerBI-visuals-ForceGraph) — Allows to visualize the relationship between items, the weightage of the relationship and the flow often brings out the untold insights into limelight, which are otherwise not very evident.
+* [Funnel](https://github.com/Microsoft/powerbi-visuals-funnel) — Find outliers in your data, using a funnel plot.
+* [Gantt Chart](https://github.com/Microsoft/powerbi-visuals-gantt) — A Gantt chart is a type of bar chart which illustrates a project timeline or schedule.
+* [Globe Map](https://github.com/Microsoft/powerbi-visuals-globemap) — A 3D visual using WebGL for plotting locations, with category values displayed as bar heights and heat maps. 
+* [Heatmap](https://github.com/Microsoft/powerbi-visuals-heatmap) — Use this custom visual to build a table heat map that can be used to visualise and compare data values in an easy and intuitive way.
+* [Histogram](https://github.com/Microsoft/powerbi-visuals-histogram) — A histogram chart plots data ranges into intervals. Useful for estimating density.
+* [Line Dot Chart](https://github.com/Microsoft/powerbi-visuals-linedotchart) — The LineDot chart is an animated line chart with fun animated dots. Use the LineDot chart to engage your audience especially in a presentation context.
+* [Mekko Chart](https://github.com/Microsoft/powerbi-visuals-mekkochart) — A mix of a 100% stacked column chart and a 100% stacked bar chart combined into one view. Similar to a treemap, the dimensional values are represented by length and width of each rectangle. The width of a column is proportional to the total value of the column.
+* [Pulse Chart](https://github.com/Microsoft/powerbi-visuals-pulsechart) — Pulse chart shows a line chart annotated with key events. Each events can be selected to filter and cross highlight other visuals to reveal insights or help tell a story.
+* [Radar](https://github.com/Microsoft/PowerBI-visuals-RadarChart) — A simple radar chart supporting multiple measures plotted over a categorical axis. Also known as a web chart, spider chart, or star chart. Use to display performance metrics for quality improvement.
+* [Sample Bar Chart](https://github.com/Microsoft/PowerBI-visuals-sampleBarChart) — A sample bar chart visual, used for tutorial purposes.
+* [Sample Slicer](https://github.com/Microsoft/powerbi-visuals-sampleslicer) — A sample slicer visual for tutorials, demonstrating the use of the Advanced Filtering API introduced in the version 1.7 of [PowerBI Visuals Tools](https://github.com/Microsoft/PowerBI-visuals-tools).
+* [Sankey](https://github.com/Microsoft/powerbi-visuals-sankey) — Type of flow diagram in which the width of the series is in proportion to the quantity of the flow. Use it to find major contributions to an overall flow.
+* [Stream Graph](https://github.com/Microsoft/powerbi-visuals-streamgraph) — A stacked area chart with smooth interpolation. Often used to display values over time.
+* [Sunburst](https://github.com/Microsoft/powerbi-visuals-sunburst) — Sunburst is a multilevel donut chart, used to visualize hierarchical data, depicted by concentric circles.
+* [Timeline](https://github.com/Microsoft/powerbi-visuals-timeline) — Graphical date range selector used as a filtering component in the report canvas.
+* [Tornado](https://github.com/Microsoft/PowerBI-visuals-Tornado) — A bar chart with category values listed vertically. Use for comparing the relative importance of a variable between two distinct groups.
+* [Word Cloud](https://github.com/Microsoft/PowerBI-visuals-WordCloud) — Word Cloud is a visual representation of word frequency and value. Use it to get instant insight into the most important terms in a set.
 
 ### Power BI in AppSource 
 
