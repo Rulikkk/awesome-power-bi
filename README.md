@@ -84,7 +84,7 @@ Power BI utils are set of tools that allow developer of Power BI visual to easil
 
 ### MS Open-Source Visuals
 
-This is a list of custom open-source, MIT-licensed visuals and tools by Microsoft:
+Akvelon developers are actively supporting and have contributed to the large list of custom open-source, MIT-licensed visuals and tools, started by Microsoft:
 
 * [**Visuals Tools**](https://github.com/Microsoft/PowerBI-visuals-tools) — Tools for building/packaging Power BI visuals. Every Power BI custom visuals developer uses these tools.
 
