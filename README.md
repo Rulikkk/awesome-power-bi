@@ -124,6 +124,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 * [Power BI Dashboards in AppSource](https://appsource.microsoft.com/marketplace/apps?product=power-bi) — Collection of dashboards, integrated with specific applications and services.
 
 ## Courses
+* **[Akvelon's PowerBI Custom Visual Workshop](https://appsource.microsoft.com/en-us/marketplace/consulting-services/akvelon.custom_visual_workshop)** — In this five-days hands-on online training workshop you will learn how to build a new Power BI Custom Visual. Our Custom Visual developers have experience in creating many types of Power BI visualizations and will help you learn how you can achieve your goals in visualizing your data and take your Power BI reports to the next level.
 * [Analyzing and Visualizing Data with Power BI](https://www.edx.org/course/analyzing-visualizing-data-power-bi-microsoft-dat207x-8) — Learn from the Power BI product team at Microsoft with a series of short, lecture-based videos, complete with demos, quizzes, and hands-on labs.
 * [Microsoft Power BI - A Complete Introduction](https://www.udemy.com/powerbi-complete-introduction/) — Learn how to use Microsoft's Power BI Tools, including Power BI Desktop, Power BI Service, and PowerBI Developer.
 * [Power BI Training](https://support.office.com/en-us/article/training-power-bi-b0d71655-a6a0-4874-8069-ed90f7d5544d) — A 5-minute hands-on video-introduction to Power BI.
