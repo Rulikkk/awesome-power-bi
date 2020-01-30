@@ -50,7 +50,7 @@ This chapter covers topics related to building custom visuals and other ways to 
 
 ### Custom Visuals Development
 
-* [Power BI Visuals](https://github.com/Microsoft/PowerBI-visuals) — A step by step tutorial of developing your first PowerBI visual by Microsoft.
+* [Power BI Visuals](https://docs.microsoft.com/en-us/power-bi/developer/visuals/custom-visual-develop-tutorial) — A step by step tutorial of developing your first Power BI visual by Microsoft.
 
 ### Utils
 
@@ -72,6 +72,7 @@ Power BI utils are set of tools that allow developer of Power BI visual to easil
 * [Power BI and R](https://www.blue-granite.com/tutorials/power-bi-and-r) — Video-tutorial about Power BI and R, including R Scripts and R Visuals.
 * [Power BI C#](https://github.com/Microsoft/PowerBI-CSharp) — .NET developer community for Power BI.
 * [Power BI Javascript](https://github.com/Microsoft/PowerBI-JavaScript) — JavaScript library for embedding Power BI into your apps.
+* [Charticulator](https://charticulator.com/) enables you to create bespoke and reusable chart layouts without writing any code. The constructor allows to export chart as Power BI visual.
 
 ## Visuals
 
@@ -88,6 +89,8 @@ Power BI utils are set of tools that allow developer of Power BI visual to easil
 Akvelon developers are actively supporting and have contributed to the large list of custom open-source, MIT-licensed visuals and tools, started by Microsoft:
 
 * [**Visuals Tools**](https://github.com/Microsoft/PowerBI-visuals-tools) — Tools for building/packaging Power BI visuals. Every Power BI custom visuals developer uses these tools.
+
+* [**Webpack plugin**](https://github.com/Microsoft/powerbi-visuals-webpack-plugin) - The plugin allows for developing custom visuals by using webpack to build a visual package.
 
 * [Aster](https://github.com/Microsoft/PowerBI-visuals-AsterPlot) — An Aster plot is a twist on a standard donut chart, using a second value to drive sweep angle.
 * [Bullet Chart](https://github.com/Microsoft/powerbi-visuals-bulletchart) — A bullet chart that includes four orientations and a few customization options. Use to feature a single measure against a qualitative range.
