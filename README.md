@@ -18,6 +18,7 @@ Thanks to all [contributors](https://github.com/rulikkk/awesome-power-bi/graphs/
 * [Development](#development)
     - [Custom Visuals Development](#custom-visuals-development)
     - [Utils](#utils)
+    - [Connectors](#connectors)
     - [Other Development Resources](#other-development-resources)
 * [Visuals](#visuals)
     - **[Visuals Developed by Akvelon](#visuals-developed-by-akvelon)**
@@ -65,6 +66,12 @@ Power BI utils are set of tools that allow developer of Power BI visual to easil
 * [FormattingUtils](https://github.com/Microsoft/powerbi-visuals-utils-formattingutils) ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-formattingutils)) — provides functionality to format values;
 * [SVGUtils](https://github.com/Microsoft/powerbi-visuals-utils-svgutils) ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-svgutils)) — simplifies SVG manipulations;
 * [TestUtils](https://github.com/Microsoft/powerbi-visuals-utils-testutils) ([npm](https://www.npmjs.com/package/powerbi-visuals-utils-testutils)) — provides set of mocks and fakes in order to simplify creating unit tests for custom visuals.
+
+### Connectors
+
+Power BI connectors and other tools that allow you to connect to various data sources.
+
+* [SSASQueryProxy](https://github.com/jmarsik/SSASQueryProxy) - simple proxy for getting MDX query results from Analysis Services (SSAS) instance accessed by using MSMDPUMP HTTP interface to Power BI Desktop / Service WITH support for scheduled refresh
 
 ### Other Development Resources
 
