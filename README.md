@@ -117,6 +117,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 * [Timeline](https://github.com/Microsoft/powerbi-visuals-timeline) — Graphical date range selector used as a filtering component in the report canvas.
 * [Tornado](https://github.com/Microsoft/PowerBI-visuals-Tornado) — A bar chart with category values listed vertically. Use for comparing the relative importance of a variable between two distinct groups.
 * [Word Cloud](https://github.com/Microsoft/PowerBI-visuals-WordCloud) — Word Cloud is a visual representation of word frequency and value. Use it to get instant insight into the most important terms in a set.
+* [Charticulator](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA200002793?tab=Overview) - Charticulator (charticulator.com) is the no-code way to create custom and reusable chart designs. Now you can create a custom chart right within Power BI using the Microsoft Charticulator Visual, either from scratch or using a template.
 
 ### Power BI in AppSource 
 
