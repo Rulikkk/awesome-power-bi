@@ -20,6 +20,7 @@ Thanks to all [contributors](https://github.com/rulikkk/awesome-power-bi/graphs/
     - [Utils](#utils)
     - [Connectors](#connectors)
     - [Other Development Resources](#other-development-resources)
+    - [Leaders](#leaders)
 * [Visuals](#visuals)
     - **[Visuals Developed by Akvelon](#visuals-developed-by-akvelon)**
     - [MS Open-Source Visuals](#ms-open-source-visuals)
@@ -81,6 +82,18 @@ Power BI connectors and other tools that allow you to connect to various data so
 * [Power BI Javascript](https://github.com/Microsoft/PowerBI-JavaScript) — JavaScript library for embedding Power BI into your apps.
 * [Charticulator](https://charticulator.com/) enables you to create bespoke and reusable chart layouts without writing any code. The constructor allows to export chart as Power BI visual.
 
+### Leaders
+
+#### Independent powerBI technology leaders
+
+* <a id="kerry-kolosko">Kerry Kolosko</a>. A passionate data visualization enthusiast from Australia, actively engaged in PowerBI community. Here is an example of her review of [PlotlyJS custom visual](https://www.youtube.com/watch?v=ckJRvHVQPJk&ab_channel=HavensConsulting) which was created by the Akvelon team. If you're interested in her work, you can find a collection of her own data visualization templates on her [website](https://kerrykolosko.com/visualisations/).
+  She also shares her knowledge and expertise on her [YouTube channel](https://www.youtube.com/@kerry_kolosko/featured).
+
+* <a id="dave-gibbon">Dave Gibbon</a>. A pioneer of using 3D visualization tools. He is an experienced individual in the data visualization industry, who has provided a comprehensive review of the [PlotlyJS custom visual](https://www.youtube.com/watch?v=mujr5QuR3cc&ab_channel=Akvelon), which you can try following the [link](https://appsource.microsoft.com/en-us/product/power-bi-visuals/akvelon.plotlyjsvisualbyakvelon?exp=ubp8).
+
+* <a id="daniel-marsh-patrick">Daniel Marsh-Patrick</a> is a consultant and producer of Power BI custom visuals from New Zealand.
+  He has created numerous visuals of his own, which are available on his [website](https://coacervo.co/). Additionally, you can visit his [GitHub](https://github.com/dm-p) for more information about his visuals and projects.
+
 ## Visuals
 
 ### Visuals Developed by Akvelon
@@ -90,7 +103,8 @@ Power BI connectors and other tools that allow you to connect to various data so
 * [Hierarchy Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381333) — This Power BI add-on is perfect for ranking different departments, jobs, and employees who make up an organization. It can also be used to show family history and visualize genealogy information. If your data can be visualized in a tree structure, the Hierarchy Chart can display it in an easy to read format.
 * [KPI Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381432) — KPI Chart by Akvelon is a single visualization for illustrating and efficiently analyzing the correlation between two measures and it combines a line chart and a column chart with the same X-axis. Column and line charts show representation of the distribution of numerical data. Additionally, KPI Chart by Akvelon allows showing static and dynamic background KPI regions that can characterize, for example, the level of success before reaching the target.
 * [Scatter Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381703) — Scatter Chart by Akvelon is similar to other two-dimensional chart visuals and allows you to assess your units using multiple measures - X and Y axes coordinates, point size and saturation. Additionally it supports rectangle selection - such filtering allows to select multiple points of the scatter within rectangle area. This feature will help you to filter specific cluster within your data and update your report to show information about that specific data points.
-
+* [PlotlyJS by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/akvelon.plotlyjsvisualbyakvelon?tab=overview) - The Plotly.js integration combines Plotly.js, Chart Studio and Power BI to provide a comprehensive data visualization experience. It leverages the capabilities of ploty.js to offer a chart editor, empowering users to create and customize over 40 types of charts. This powerful tool enables the creation of various visualizations, ranging from simple Scatter charts to intricate 3D charts, Finance charts, and specialized visuals. You may find review of this visual by one of the independent powerBI technology leaders, such as [Kerry Kolosko](#kerry-kolosko) or [Dave Gibbon](#dave-gibbon)
+* 
 ### MS Open-Source Visuals
 
 Akvelon developers are actively supporting and have contributed to the large list of custom open-source, MIT-licensed visuals and tools, started by Microsoft:
