@@ -43,7 +43,7 @@ Thanks to all [contributors](https://github.com/rulikkk/awesome-power-bi/graphs/
 
 * [Power BI Homepage](https://powerbi.microsoft.com/) — The official homepage of Power BI by Microsoft.
 * [Power BI User Documentation](https://docs.microsoft.com/power-bi/) — The official Power BI user documentation by Microsoft.
-* [Power BI Youtube Channel](https://www.youtube.com/user/mspowerbi) — The official Power BI Youtube channel.
+* [Power BI YouTube Channel](https://www.youtube.com/user/mspowerbi) — The official Power BI YouTube channel.
 * [Power BI Twitter](https://twitter.com/mspowerbi) — Power BI official twitter.
 
 ## Development
@@ -52,7 +52,7 @@ This chapter covers topics related to building custom visuals and other ways to 
 
 ### Custom Visuals Development
 
-* [Power BI Visuals](https://docs.microsoft.com/en-us/power-bi/developer/visuals/custom-visual-develop-tutorial) — A step by step tutorial of developing your first Power BI visual by Microsoft.
+* [Power BI Visuals](https://docs.microsoft.com/en-us/power-bi/developer/visuals/custom-visual-develop-tutorial) — A step-by-step tutorial of developing your first Power BI visual by Microsoft.
 
 ### Utils
 
@@ -100,9 +100,9 @@ Power BI connectors and other tools that allow you to connect to various data so
 
 * [Bubble Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381340) ([source](https://github.com/akvelon/pbicv-bubblechart)) — Bubble Chart by Akvelon provides efficient way to visualize your data that has one numeric dimension and one or two categories. This chart is simplified version of Scatter chart with tightly packed bubbles - this way you can show more categories in a given space. Additionally, Bubble chart allows creating groups of bubbles by providing additional second category field bucket.
 * [Custom Calendar by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381179) — Akvelon’s Custom Calendar for Power BI is the best way to view and display daily data from any source.
-* [Hierarchy Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381333) — This Power BI add-on is perfect for ranking different departments, jobs, and employees who make up an organization. It can also be used to show family history and visualize genealogy information. If your data can be visualized in a tree structure, the Hierarchy Chart can display it in an easy to read format.
+* [Hierarchy Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381333) — This Power BI add-on is perfect for ranking different departments, jobs, and employees who make up an organization. It can also be used to show family history and visualize genealogy information. If your data can be visualized in a tree structure, the Hierarchy Chart can display it in an easy-to-read format.
 * [KPI Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381432) — KPI Chart by Akvelon is a single visualization for illustrating and efficiently analyzing the correlation between two measures and it combines a line chart and a column chart with the same X-axis. Column and line charts show representation of the distribution of numerical data. Additionally, KPI Chart by Akvelon allows showing static and dynamic background KPI regions that can characterize, for example, the level of success before reaching the target.
-* [Scatter Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381703) — Scatter Chart by Akvelon is similar to other two-dimensional chart visuals and allows you to assess your units using multiple measures - X and Y axes coordinates, point size and saturation. Additionally it supports rectangle selection - such filtering allows to select multiple points of the scatter within rectangle area. This feature will help you to filter specific cluster within your data and update your report to show information about that specific data points.
+* [Scatter Chart by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381703) — Scatter Chart by Akvelon is similar to other two-dimensional chart visuals and allows you to assess your units using multiple measures - X and Y axes coordinates, point size and saturation. Additionally, it supports rectangle selection - such filtering allows to select multiple points of the scatter within rectangle area. This feature will help you to filter specific cluster within your data and update your report to show information about that specific data points.
 * [PlotlyJS by Akvelon](https://appsource.microsoft.com/en-us/product/power-bi-visuals/akvelon.plotlyjsvisualbyakvelon?tab=overview) - The Plotly.js integration combines Plotly.js, Chart Studio and Power BI to provide a comprehensive data visualization experience. It leverages the capabilities of ploty.js to offer a chart editor, empowering users to create and customize over 40 types of charts. This powerful tool enables the creation of various visualizations, ranging from simple Scatter charts to intricate 3D charts, Finance charts, and specialized visuals. You may find review of this visual by one of the independent powerBI technology leaders, such as [Kerry Kolosko](#kerry-kolosko) or [Dave Gibbon](#dave-gibbon)
 
 ### MS Open-Source Visuals
@@ -117,7 +117,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 * [Bullet Chart](https://github.com/Microsoft/powerbi-visuals-bulletchart) — A bullet chart that includes four orientations and a few customization options. Use to feature a single measure against a qualitative range.
 * [Cartogram](https://github.com/Microsoft/powerbi-visuals-drilldown-cartogram) — Displays a hierarchical map set as a circle for each location, with size/color from specified values.
 * [Chiclet Slicer](https://github.com/Microsoft/PowerBI-visuals-ChicletSlicer) — Use this slicer to display image and/or text buttons that act as an in-canvas filter. Define additional properties for the layout & selection to customize this slicer to meet your specific needs.
-* [Chord Diagram](https://github.com/Microsoft/powerbi-visuals-chord) — A chord diagram is a graphical method of displaying the inter-relationships between data in a matrix.
+* [Chord Diagram](https://github.com/Microsoft/powerbi-visuals-chord) — A chord diagram is a graphical method of displaying the interrelationships between data in a matrix.
 * [Choropleth](https://github.com/Microsoft/powerbi-visuals-drilldown-choropleth) — Displays a hierarchical map set with each location filled in a color from specified values.
 * [Dotplot](https://github.com/Microsoft/powerbi-visuals-dotplot) — A dot plot is used to show a representation of the distribution of frequencies. It is most often used to show counts of an occurrence.
 * [Drilldown Player](https://github.com/Microsoft/powerbi-visuals-drilldown-player) — Animates report components like a slicer on autopilot.
@@ -131,7 +131,7 @@ Akvelon developers are actively supporting and have contributed to the large lis
 * [Histogram](https://github.com/Microsoft/powerbi-visuals-histogram) — A histogram chart plots data ranges into intervals. Useful for estimating density.
 * [Line Dot Chart](https://github.com/Microsoft/powerbi-visuals-linedotchart) — The LineDot chart is an animated line chart with fun animated dots. Use the LineDot chart to engage your audience especially in a presentation context.
 * [Mekko Chart](https://github.com/Microsoft/powerbi-visuals-mekkochart) — A mix of a 100% stacked column chart and a 100% stacked bar chart combined into one view. Similar to a treemap, the dimensional values are represented by length and width of each rectangle. The width of a column is proportional to the total value of the column.
-* [Pulse Chart](https://github.com/Microsoft/powerbi-visuals-pulsechart) — Pulse chart shows a line chart annotated with key events. Each events can be selected to filter and cross highlight other visuals to reveal insights or help tell a story.
+* [Pulse Chart](https://github.com/Microsoft/powerbi-visuals-pulsechart) — Pulse chart shows a line chart annotated with key events. Each event can be selected to filter and cross highlight other visuals to reveal insights or help tell a story.
 * [Radar](https://github.com/Microsoft/PowerBI-visuals-RadarChart) — A simple radar chart supporting multiple measures plotted over a categorical axis. Also known as a web chart, spider chart, or star chart. Use to display performance metrics for quality improvement.
 * [Sample Bar Chart](https://github.com/Microsoft/PowerBI-visuals-sampleBarChart) — A sample bar chart visual, used for tutorial purposes.
 * [Sample Slicer](https://github.com/Microsoft/powerbi-visuals-sampleslicer) — A sample slicer visual for tutorials, demonstrating the use of the Advanced Filtering API introduced in the version 1.7 of [PowerBI Visuals Tools](https://github.com/Microsoft/PowerBI-visuals-tools).
